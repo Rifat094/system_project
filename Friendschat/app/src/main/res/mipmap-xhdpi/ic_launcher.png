@@ -1,0 +1,31 @@
+ring name="permgroupdesc_phone" msgid="6234224354060641055">"uspostavljati telefonske pozive i upravljati njima"</string>
+    <string name="permgrouprequest_phone" msgid="9166979577750581037">"Želite li dopustiti aplikaciji &lt;b&gt;<xliff:g id="APP_NAME">%1$s</xliff:g>&lt;/b&gt; da upućuje telefonske pozive i upravlja njima?"</string>
+    <string name="permgrouplab_sensors" msgid="416037179223226722">"Biometrijski senzori"</string>
+    <string name="permgroupdesc_sensors" msgid="7147968539346634043">"pristupiti podacima senzora o vašim vitalnim znakovima"</string>
+    <string name="permgrouprequest_sensors" msgid="6349806962814556786">"Želite li dopustiti aplikaciji &lt;b&gt;<xliff:g id="APP_NAME">%1$s</xliff:g>&lt;/b&gt; da pristupa podacima senzora o vašim vitalnim znakovima?"</string>
+    <string name="capability_title_canRetrieveWindowContent" msgid="3901717936930170320">"Dohvaćati sadržaj prozora"</string>
+    <string name="capability_desc_canRetrieveWindowContent" msgid="3772225008605310672">"Pregledat će sadržaj prozora koji upotrebljavate."</string>
+    <string name="capability_title_canRequestTouchExploration" msgid="3108723364676667320">"Uključiti značajku Istraži dodirom"</string>
+    <string name="capability_desc_canRequestTouchExploration" msgid="7543249041581408313">"Dodirnute stavke izgovorit će se naglas, a zaslon se može istraživati pokretima."</string>
+    <string name="capability_title_canRequestFilterKeyEvents" msgid="2103440391902412174">"Pratiti tekst koji pišete"</string>
+    <string name="capability_desc_canRequestFilterKeyEvents" msgid="7463135292204152818">"Uključuje osobne podatke kao što su brojevi kreditnih kartica i zaporke."</string>
+    <string name="capability_title_canControlMagnification" msgid="3593493281059424855">"Kontrolirati uvećanje zaslona"</string>
+    <string name="capability_desc_canControlMagnification" msgid="4791858203568383773">"Kontrolirat će stupanj i mjesto zumiranja."</string>
+    <string name="capability_title_canPerformGestures" msgid="7418984730362576862">"Izvoditi pokrete"</string>
+    <string name="capability_desc_canPerformGestures" msgid="8296373021636981249">"Može dodirnuti, prijeći prstom, spojiti prste i izvoditi druge pokrete."</string>
+    <string name="capability_title_canCaptureFingerprintGestures" msgid="6309568287512278670">"Pokreti za otisak prsta"</string>
+    <string name="capability_desc_canCaptureFingerprintGestures" msgid="4386487962402228670">"Može snimati pokrete izvršene na senzoru otiska prsta na uređaju."</string>
+    <string name="permlab_statusBar" msgid="7417192629601890791">"onemogućavanje ili izmjena trake statusa"</string>
+    <string name="permdesc_statusBar" msgid="8434669549504290975">"Aplikaciji omogućuje onemogućavanje trake statusa ili dodavanje i uklanjanje sistemskih ikona."</string>
+    <string name="permlab_statusBarService" msgid="4826835508226139688">"biti traka statusa"</string>
+    <string name="permdesc_statusBarService" msgid="716113660795976060">"Aplikaciji omogućuje da bude traka statusa."</string>
+    <string name="permlab_expandStatusBar" msgid="1148198785937489264">"proširivanje/sažimanje trake statusa"</string>
+    <string name="permdesc_expandStatusBar" msgid="6917549437129401132">"Omogućuje aplikaciji proširivanje ili sažimanje trake statusa."</string>
+    <string name="permlab_install_shortcut" msgid="4279070216371564234">"instaliranje prečaca"</string>
+    <string name="permdesc_install_shortcut" msgid="8341295916286736996">"Aplikaciji omogućuje dodavanje prečaca početnog zaslona bez intervencije korisnika."</string>
+    <string name="permlab_uninstall_shortcut" msgid="4729634524044003699">"deinstaliranje prečaca"</string>
+    <string name="permdesc_uninstall_shortcut" msgid="6745743474265057975">"Aplikaciji omogućuje uklanjanje prečaca početnog zaslona bez intervencije korisnika."</string>
+    <string name="permlab_processOutgoingCalls" msgid="3906007831192990946">"preusmjeravanje odlaznih poziva"</string>
+    <string name="permdesc_processOutgoingCalls" msgid="5156385005547315876">"Omogućuje aplikaciji da vidi broj koji se bira prilikom odlaznog poziva uz opciju preusmjeravanja poziva na neki drugi broj ili prekidanja poziva."</string>
+    <string name="permlab_answerPhoneCalls" msgid="4077162841226223337">"odgovoriti na telefonske pozive"</string>
+    <string name="permdesc_answerPhoneCalls" msgid="2901889867993572266">"Aplikaciji omogućuje da odgovo
